@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ASSETS/mundo-do-torajo-torajo.gif" alt="Linn" width="410">
+  <img src="./ASSETS/mundo-do-torajo-torajo.gif" alt="Linn" width="420">
 </p>
 
 <p align="center">
