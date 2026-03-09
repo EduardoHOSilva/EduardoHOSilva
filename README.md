@@ -17,8 +17,11 @@ Meu nome é **Edu** e este é o meu espaço onde guardo os projetos desenvolvido
 
 ## Ferramentas utilizadas no curso
 
-### 💻 Linguagens
+### 💻 Linguagens:
 ![My Skills](https://skills.syvixor.com/api/icons?i=nodejs,javascript,html,css,mysql)
 
-### 🚀 Frameworks
+### 🚀 Frameworks:
 ![My Skills](https://skills.syvixor.com/api/icons?i=expressjs,nodemon)
+
+### 🛠️ Ferramentas:
+![My Skills](https://skills.syvixor.com/api/icons?i=nodejs,git,github,visualstudiocode,insomnia,androidstudio)
