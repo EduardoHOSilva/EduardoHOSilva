@@ -21,7 +21,7 @@ Meu nome é **Edu** e este é o meu espaço onde guardo os projetos desenvolvido
 ![My Skills](https://skills.syvixor.com/api/icons?i=nodejs,javascript,html,css,mysql)
 
 ### 🚀 Frameworks:
-![My Skills](https://skills.syvixor.com/api/icons?i=expressjs,mysql,reactjs,reactnative)
+![My Skills](https://skills.syvixor.com/api/icons?i=expressjs,mysql)
 
 ### 🛠️ Ferramentas:
 ![My Skills](https://skills.syvixor.com/api/icons?i=nodejs,git,github,visualstudiocode,insomnia,androidstudio)
