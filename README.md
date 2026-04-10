@@ -4,8 +4,6 @@
 </p>
 
 <h1>Duh</h1>
-<h2 align="center"> Habilidades</h2>
-<div align="center">
 
 ---
 
