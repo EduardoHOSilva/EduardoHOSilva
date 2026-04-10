@@ -1,17 +1,11 @@
+<div align='center'>
 <p align="center">
-  <img src="./ASSETS/mundo-do-torajo-torajo.gif" alt="Linn" width="420">
+  <img src="./ASSETS/Ícone de câmera com símbolo de alerta.png" alt="Olha a foto!" width="450">
 </p>
 
-<p align="center">
-  <i>Linn de Mundo Torajo</i>
-</p>
-
-## Myself
-
-Meu nome é **Edu** e este é o meu espaço onde guardo os projetos desenvolvidos dentro do **SENAI**.
-
-* **Curso:** Desenvolvimento de Sistemas (DS)
-* **Aviso:** ⚠️ *Apenas projetos escolares!* ⚠️
+<h1>Duh</h1>
+<h2 align="center"> Habilidades</h2>
+<div align="center">
 
 ---
 
