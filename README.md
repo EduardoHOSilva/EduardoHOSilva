@@ -16,4 +16,4 @@
 ![My Skills](https://skills.syvixor.com/api/icons?i=expressjs,mysql)
 
 ### 🛠️ Ferramentas:
-![My Skills](https://skills.syvixor.com/api/icons?i=nodejs,git,github,visualstudiocode,insomnia,androidstudio)
+![My Skills](https://skills.syvixor.com/api/icons?i=github,visualstudiocode,insomnia,androidstudio)
