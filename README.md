@@ -10,7 +10,7 @@
 ## Ferramentas utilizadas no curso
 
 ### 💻 Linguagens:
-![My Skills](https://skills.syvixor.com/api/icons?i=nodejs,javascript,html,css,mysql)
+![My Skills](https://skills.syvixor.com/api/icons?i=javascript,html,css,mysql)
 
 ### 🚀 Frameworks:
 ![My Skills](https://skills.syvixor.com/api/icons?i=expressjs,mysql)
