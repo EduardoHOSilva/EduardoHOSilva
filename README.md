@@ -1,6 +1,6 @@
 <div align='center'>
 <p align="center">
-  <img src="./ASSETS/Ícone de câmera com símbolo de alerta.png" width="450">
+  <img src="./ASSETS/A" width="450">
 </p>
 
 <h1>Duh</h1>
