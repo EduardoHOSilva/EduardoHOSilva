@@ -1,7 +1,4 @@
 <div align='center'>
-<p align="center">
-  <img src="./ASSETS/A.jpg" width="450">
-</p>
 
 <h1>Duh</h1>
 
