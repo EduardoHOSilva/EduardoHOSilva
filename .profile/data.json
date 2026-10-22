@@ -1,0 +1,493 @@
+{
+ "key": "325ce02f",
+ "stars": 0,
+ "contributions": 60,
+ "repos": 40,
+ "followers": 47,
+ "languages": [
+  [
+   "JavaScript",
+   258642
+  ],
+  [
+   "HTML",
+   15414
+  ],
+  [
+   "CSS",
+   5080
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 1
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "audio_e_musica",
+   "url": "https://github.com/EduardoHOSilva/audio_e_musica",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "-S1_R6---AT3_PPDM",
+   "url": "https://github.com/EduardoHOSilva/-S1_R6---AT3_PPDM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "S1_R3-AT1_Teste-Unit-rios_TSOF",
+   "url": "https://github.com/EduardoHOSilva/S1_R3-AT1_Teste-Unit-rios_TSOF",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S1_R6---AT2_PPDM",
+   "url": "https://github.com/EduardoHOSilva/S1_R6---AT2_PPDM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "S1_R6---AT1_PPDM",
+   "url": "https://github.com/EduardoHOSilva/S1_R6---AT1_PPDM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S1_R6-ATV1",
+   "url": "https://github.com/EduardoHOSilva/S1_R6-ATV1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S1_R6---AT1_PBE-2",
+   "url": "https://github.com/EduardoHOSilva/S1_R6---AT1_PBE-2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S1_R5---AT1_PPDM",
+   "url": "https://github.com/EduardoHOSilva/S1_R5---AT1_PPDM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S1_R4---AT1_PPDM",
+   "url": "https://github.com/EduardoHOSilva/S1_R4---AT1_PPDM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S1_R3_R4---AT4_PBE-2",
+   "url": "https://github.com/EduardoHOSilva/S1_R3_R4---AT4_PBE-2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "AT2_PBE-2_PT2",
+   "url": "https://github.com/EduardoHOSilva/AT2_PBE-2_PT2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "AT2_PBE-2_PT1",
+   "url": "https://github.com/EduardoHOSilva/AT2_PBE-2_PT1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "S1_R3_R4---AT2_PBE-2",
+   "url": "https://github.com/EduardoHOSilva/S1_R3_R4---AT2_PBE-2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "modelo01",
+   "url": "https://github.com/EduardoHOSilva/modelo01",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S1_R2---AT3_PPDM-1",
+   "url": "https://github.com/EduardoHOSilva/S1_R2---AT3_PPDM-1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "S1_R2--AT2_PPDM",
+   "url": "https://github.com/EduardoHOSilva/S1_R2--AT2_PPDM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S2_R2-AT1_PEND",
+   "url": "https://github.com/EduardoHOSilva/S2_R2-AT1_PEND",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "S1_R2--AT1_PPDM",
+   "url": "https://github.com/EduardoHOSilva/S1_R2--AT1_PPDM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "EduardoHOSilva",
+   "url": "https://github.com/EduardoHOSilva/EduardoHOSilva",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "S1_R1---AT1_PBE-1",
+   "url": "https://github.com/EduardoHOSilva/S1_R1---AT1_PBE-1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "AVerde",
+   "url": "https://github.com/EduardoHOSilva/AVerde",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "S1_R6-AT2_PBE1",
+   "url": "https://github.com/EduardoHOSilva/S1_R6-AT2_PBE1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S4_AT3_R4_LIMA",
+   "url": "https://github.com/EduardoHOSilva/S4_AT3_R4_LIMA",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "S4_AT3_R4_LIMA_Hypertext-Markup-Language",
+   "url": "https://github.com/EduardoHOSilva/S4_AT3_R4_LIMA_Hypertext-Markup-Language",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "S1_R6-AT1_PBE1",
+   "url": "https://github.com/EduardoHOSilva/S1_R6-AT1_PBE1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S4_AT2_R4_LIMA",
+   "url": "https://github.com/EduardoHOSilva/S4_AT2_R4_LIMA",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "S4_AT1_R4_LIMA",
+   "url": "https://github.com/EduardoHOSilva/S4_AT1_R4_LIMA",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "S1_R5---AT2_PBE1",
+   "url": "https://github.com/EduardoHOSilva/S1_R5---AT2_PBE1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S1_R5---AT1_PBE1",
+   "url": "https://github.com/EduardoHOSilva/S1_R5---AT1_PBE1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "-S1_R4-AT1_PBE1",
+   "url": "https://github.com/EduardoHOSilva/-S1_R4-AT1_PBE1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S1_AT2_R1_LIMA",
+   "url": "https://github.com/EduardoHOSilva/S1_AT2_R1_LIMA",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "S1_AT2_R1_LIMA-_Linguagens-de-Marca-o",
+   "url": "https://github.com/EduardoHOSilva/S1_AT2_R1_LIMA-_Linguagens-de-Marca-o",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "S1_R3-AT1_PBE1",
+   "url": "https://github.com/EduardoHOSilva/S1_R3-AT1_PBE1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Atividade-Finla",
+   "url": "https://github.com/EduardoHOSilva/Atividade-Finla",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "TrabalhoFinal",
+   "url": "https://github.com/EduardoHOSilva/TrabalhoFinal",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S1_R9-AT1_LOPAL",
+   "url": "https://github.com/EduardoHOSilva/S1_R9-AT1_LOPAL",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "S1_R8-AT1.2_LOPAL",
+   "url": "https://github.com/EduardoHOSilva/S1_R8-AT1.2_LOPAL",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "S1_R7-AT1_LOPAL",
+   "url": "https://github.com/EduardoHOSilva/S1_R7-AT1_LOPAL",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Segundo-Commit",
+   "url": "https://github.com/EduardoHOSilva/Segundo-Commit",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "R3-ATV2",
+   "url": "https://github.com/EduardoHOSilva/R3-ATV2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
