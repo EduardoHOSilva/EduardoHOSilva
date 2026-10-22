@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "login": "EduardoHOSilva",
+  "seed": "#FF5CA8",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "projects"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Eduu",
+    "subtitle": "Backend developer. A bit of a web designer.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "SP/ Brazil"
+      },
+      {
+        "icon": "code",
+        "label": "JavaScript · JSX"
+      },
+      {
+        "icon": "star",
+        "label": "A Good Boy"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "17 yo, developer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly backend, a bit frontend"
+      },
+      {
+        "icon": "language",
+        "label": "Web, backend and a bit of JSX"
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "I LOVE WINDOWS!!!"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:vite",
+            "label": "Vite"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:androidstudio",
+            "label": "Android Studio"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles"
+    ],
+    "overrides": {
+      "pixel-garden": {
+        "text": "",
+        "icon": "kid_star",
+        "shape": "cookie"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Starred",
+    "contributions": "Contributions this year",
+    "repos": "Public repositories",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/EduardoHOSilva"
+      },
+      {
+        "icon": "brand:reddit",
+        "url": "https://www.reddit.com/user/Fourth-Chorus/"
+      },
+      {
+        "icon": "brand:devdotto",
+        "url": "https://dev.to/good_boy"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
