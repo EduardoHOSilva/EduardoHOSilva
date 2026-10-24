@@ -1,5 +1,5 @@
 {
- "key": "88cb607",
+ "key": "48ddc107",
  "stars": 0,
  "contributions": 77,
  "repos": 40,
@@ -122,13 +122,17 @@
    {
     "c": 0,
     "day": 23,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 24,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 1
  },
  "pins": [],
